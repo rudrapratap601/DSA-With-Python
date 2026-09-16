@@ -161,18 +161,6 @@ How much additional memory an algorithm requires as the input grows.
 
 ---
 
-# 📝 Learning Log
-
-## Day 1
-
-**Topics:**
-
-* Big-O
-
-**Problems Solved:** 14
-
----
-
 # 📌 Rules for Myself
 
 1. Don't memorize solutions blindly.
