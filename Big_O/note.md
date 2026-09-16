@@ -184,6 +184,8 @@ O(2ⁿ)
 
 Such algorithms become impractical very quickly as n increases.
 
+---
+
 # 9. Space Complexity
 
 Space Complexity describes how much additional memory an algorithm requires as the input size grows.
@@ -221,6 +223,7 @@ The input may contain millions of elements, but we only use a few extra variable
 ```
 O(1)
 ```
+---
 
 # 10. Drop Constants
 
@@ -248,6 +251,7 @@ not:
 ```
 O(2n)
 ```
+---
 
 # 11. Drop Lower-Order Terms
 
@@ -266,6 +270,7 @@ becomes:
 ```
 O(n²)
 ```
+---
 
 # 12. Multiple Parts of an Algorithm
 
@@ -300,6 +305,7 @@ So the overall complexity is:
 ```
 O(n)
 ```
+---
 
 # 13. Nested Loops
 
@@ -324,6 +330,7 @@ n × n = n²
 ```
 O(n²)
 ```
+---
 
 # 14. Complexity Hierarchy
 
