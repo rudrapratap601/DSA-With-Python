@@ -12,12 +12,12 @@ My goal is not just to solve problems, but to understand **why a solution works,
 
 Build strong foundations in:
 
-* Data Structures
-* Algorithms
-* Problem Solving
-* Time & Space Complexity
-* Algorithmic Thinking
-* Optimization
+- Data Structures
+- Algorithms
+- Problem Solving
+- Time & Space Complexity
+- Algorithmic Thinking
+- Optimization
 
 I will primarily use **Python** throughout this journey.
 
@@ -37,50 +37,50 @@ Rather than learning another language for DSA, I want to focus my energy on:
 
 ## Phase 1 — Foundations
 
-* [x] Big-O Time & Space Complexity
-* [ ] Arrays / Lists
-* [ ] Strings
-* [ ] Hashing
-* [ ] Sets
-* [ ] Dictionaries
-* [ ] Two Pointers
-* [ ] Sliding Window
-* [ ] Prefix Sum
+- [x] Big-O Time & Space Complexity
+- [ ] Arrays / Lists
+- [ ] Strings
+- [ ] Hashing
+- [ ] Sets
+- [ ] Dictionaries
+- [ ] Two Pointers
+- [ ] Sliding Window
+- [ ] Prefix Sum
 
 ## Phase 2 — Core Data Structures
 
-* [ ] Linked Lists
-* [ ] Stacks
-* [ ] Queues
-* [ ] Deques
-* [ ] Recursion
-* [ ] Binary Search
+- [ ] Linked Lists
+- [ ] Stacks
+- [ ] Queues
+- [ ] Deques
+- [ ] Recursion
+- [ ] Binary Search
 
 ## Phase 3 — Trees
 
-* [ ] Binary Trees
-* [ ] Tree Traversals
-* [ ] DFS
-* [ ] BFS
-* [ ] Binary Search Trees
-* [ ] Heaps
-* [ ] Priority Queues
+- [ ] Binary Trees
+- [ ] Tree Traversals
+- [ ] DFS
+- [ ] BFS
+- [ ] Binary Search Trees
+- [ ] Heaps
+- [ ] Priority Queues
 
 ## Phase 4 — Graphs
 
-* [ ] Graph Representation
-* [ ] BFS
-* [ ] DFS
-* [ ] Connected Components
-* [ ] Shortest Path
-* [ ] Topological Sorting
+- [ ] Graph Representation
+- [ ] BFS
+- [ ] DFS
+- [ ] Connected Components
+- [ ] Shortest Path
+- [ ] Topological Sorting
 
 ## Phase 5 — Advanced Algorithms
 
-* [ ] Greedy Algorithms
-* [ ] Backtracking
-* [ ] Dynamic Programming
-* [ ] Advanced Graph Algorithms
+- [ ] Greedy Algorithms
+- [ ] Backtracking
+- [ ] Dynamic Programming
+- [ ] Advanced Graph Algorithms
 
 ---
 
@@ -136,12 +136,11 @@ How much additional memory an algorithm requires as the input grows.
 
 ---
 
-
 # 📈 Progress Tracker
 
-| Topic               | Status          | Problems Solved |
-| ------------------- | --------------  | --------------: |
-| Big-O               | ✅ Completed   |               14 |
+| Topic               | Status         | Problems Solved |
+| ------------------- | -------------- | --------------: |
+| Big-O               | ✅ Completed   |              14 |
 | Arrays              | ⬜ Not Started |               0 |
 | Strings             | ⬜ Not Started |               0 |
 | Hashing             | ⬜ Not Started |               0 |
@@ -184,6 +183,7 @@ How much additional memory an algorithm requires as the input grows.
 7. Write down the solution (Code).
 
 ---
+
 # 🚀 Long-Term Goal
 
 Become confident enough to solve unfamiliar algorithmic problems using structured reasoning and apply these skills to **software engineering, data science, machine learning, and analytics**.
