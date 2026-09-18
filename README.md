@@ -173,6 +173,17 @@ How much additional memory an algorithm requires as the input grows.
 
 ---
 
+# ⚙️ Process to Solve a Problem
+
+1. Analyze the problem. (Think with respect to Input and Output)
+2. Break down the problem into smaller sub problem.
+3. Recall the concepts already know.
+4. Take 2-3 examples
+5. Write a Pseudocode on a paper.
+6. Dry run it once.
+7. Write down the solution (Code).
+
+---
 # 🚀 Long-Term Goal
 
 Become confident enough to solve unfamiliar algorithmic problems using structured reasoning and apply these skills to **software engineering, data science, machine learning, and analytics**.
