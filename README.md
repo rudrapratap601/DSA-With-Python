@@ -181,6 +181,7 @@ How much additional memory an algorithm requires as the input grows.
 5. Write a Pseudocode on a paper.
 6. Dry run it once.
 7. Write down the solution (Code).
+8. Look for the edge cases or boundary conditions.
 
 ---
 
