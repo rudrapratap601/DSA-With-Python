@@ -38,7 +38,7 @@ Rather than learning another language for DSA, I want to focus my energy on:
 ## Phase 1 — Foundations
 
 - [x] Big-O Time & Space Complexity
-- [ ] Arrays / Lists
+- [o] Arrays / Lists
 - [ ] Strings
 - [ ] Hashing
 - [ ] Sets
@@ -141,7 +141,7 @@ How much additional memory an algorithm requires as the input grows.
 | Topic               | Status         | Problems Solved |
 | ------------------- | -------------- | --------------: |
 | Big-O               | ✅ Completed   |              14 |
-| Arrays              | ⬜ Not Started |               0 |
+| Arrays              | 🚀 Started     |               1 |
 | Strings             | ⬜ Not Started |               0 |
 | Hashing             | ⬜ Not Started |               0 |
 | Two Pointers        | ⬜ Not Started |               0 |
