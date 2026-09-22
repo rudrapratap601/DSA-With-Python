@@ -141,7 +141,7 @@ How much additional memory an algorithm requires as the input grows.
 | Topic               | Status         | Problems Solved |
 | ------------------- | -------------- | --------------: |
 | Big-O               | ✅ Completed   |              14 |
-| Arrays              | 🚀 Started     |               1 |
+| Arrays              | 🚀 Started     |               3 |
 | Strings             | ⬜ Not Started |               0 |
 | Hashing             | ⬜ Not Started |               0 |
 | Two Pointers        | ⬜ Not Started |               0 |
